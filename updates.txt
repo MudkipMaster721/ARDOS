@@ -1,0 +1,21 @@
+updates
+beta:
+0.1
+added timer
+added random
+0.2
+added calculator
+0.3
+updated calculator with circle
+updated random app
+0.4
+added title splash screen
+added home function to calculator
+added help menu
+added conversion of measurements
+0.5 
+fixed triangle perimeter
+added pythagoras
+0.6
+added 3d shapes
+updated perimeter again
